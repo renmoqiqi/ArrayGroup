@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "desc": "success",
+  "body": [
+    {
+      "name": "代办收费",
+      "englishName": "Agency Charges",
+      "code": "app_p_payment",
+      "iconUrl": null,
+      "iconNewurl": "http://oq6t96i6t.bkt.clouddn.com/phone/service/newicon/payment@3x.png",
+      "phoneUrl": null,
+      "type": 1,
+      "countNum": 0,
+      "desc": "待缴费",
+      "serviceType": "官方应用"
+    },
+    {
+      "name": "安全校园",
+      "englishName": "Campus Safety",
+      "code": "app_p_safe",
+      "iconUrl": null,
+      "iconNewurl": "http://oq6t96i6t.bkt.clouddn.com/phone/service/newicon/safeSchool@3x.png",
+      "phoneUrl": null,
+      "type": 1,
+      "countNum": 0,
+      "desc": "教学楼",
+      "serviceType": "校园定制"
+    },
+    {
+      "name": "电子学生证置换卡",
+      "englishName": "Student Swap Card",
+      "code": "app_p_stu_swap_card",
+      "iconUrl": null,
+      "iconNewurl": "http://oq6t96i6t.bkt.clouddn.com/phone/service/newicon/studentCard@3x.png",
+      "phoneUrl": "http://www.eduincloud.net/mobile/bigdata.html",
+      "type": 2,
+      "countNum": 0,
+      "desc": "测试中",
+      "serviceType": "校园定制"
+    },
+    {
+      "name": "研学旅行",
+      "englishName": "Study Tour",
+      "code": "app_p_travel",
+      "iconUrl": null,
+      "iconNewurl": "http://oq6t96i6t.bkt.clouddn.com/phone/service/newicon/studyTravel@3x.png",
+      "phoneUrl": "http://10.16.16.12/article/discover?accountId=ff8080815df4f7c1015df50832c4000b",
+      "type": 2,
+      "countNum": 0,
+      "desc": "已参加",
+      "serviceType": "官方应用"
+    },
+    {
+      "name": "保障服务",
+      "englishName": "Assurance Service",
+      "code": "app_p_ensure",
+      "iconUrl": null,
+      "iconNewurl": "http://oq6t96i6t.bkt.clouddn.com/phone/service/newicon/safeguard@3x.png",
+      "phoneUrl": null,
+      "type": 1,
+      "countNum": 0,
+      "desc": "已购买",
+      "serviceType": "第三方应用"
+    },
+    {
+      "name": "精品阅读",
+      "englishName": "Quality Reading",
+      "code": "app_p_readbook",
+      "iconUrl": null,
+      "iconNewurl": "http://oq6t96i6t.bkt.clouddn.com/phone/service/newicon/read@3x.png",
+      "phoneUrl": "http://e.library.sh.cn/zhuanti/zsm/",
+      "type": 2,
+      "countNum": 0,
+      "desc": "在读",
+      "serviceType": "非官方定制"
+    },
+    {
+      "name": "问卷调查",
+      "englishName": "Question",
+      "code": "app_p_question",
+      "iconUrl": null,
+      "iconNewurl": "http://oq6t96i6t.bkt.clouddn.com/phone/service/newicon/question@3x.png",
+      "phoneUrl": "http://www.eduincloud.net/mobile/bigdata.html",
+      "type": 2,
+      "countNum": 0,
+      "desc": "问卷中",
+      "serviceType": "第三方应用"
+    }
+  ]
+}
